@@ -6,5 +6,12 @@ This project is mainly to reduce the hurdles faced in speaking many different la
 
 The Aim of this project is to translate text and speech from one language to another using python programming language.
 
-![image](https://user-images.githubusercontent.com/84921105/166459971-e5518dce-1175-4212-9045-57abc84db305.png)
-![image](https://user-images.githubusercontent.com/84921105/166459999-972b8c26-97f3-40c7-9c3b-e045cb4d8b85.png)
+Text Translation Symbolic Representation 
+
+![image](https://user-images.githubusercontent.com/84921105/166460155-a534cad1-f77a-4aa7-9fe9-70fa0836ca1e.png)
+
+
+Speech Translation Symbolic Representation
+
+![image](https://user-images.githubusercontent.com/84921105/166460228-722dc7d6-38b6-4554-86e6-b36d84e11f49.png)
+
